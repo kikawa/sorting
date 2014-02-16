@@ -1,4 +1,4 @@
-sorting
+Sorting Algorithms
 =======
 
-Sorting Algorithms implemented in Python
+Sorting Algorithms implemented in Python3
